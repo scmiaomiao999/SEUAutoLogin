@@ -187,5 +187,6 @@ pip install -r requirements.txt
   Terms in  ['2020-2021-1']
   学年必修总学分：10.000000, 学年绩点：4.629412
   ```
+  
 
 
